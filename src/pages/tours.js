@@ -1,6 +1,6 @@
 import React from 'react'
 import Layout from '../components/layout'
-import Tours from '../components/Tours/Tours'
+import Tours from '../components/tours/Tours'
 import { graphql } from 'gatsby'
 const tours = ({ data }) => {
   // console.log(data)
