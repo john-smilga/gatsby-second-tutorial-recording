@@ -1,6 +1,6 @@
 import React from 'react'
 import { graphql } from 'gatsby'
-import Layout from '../components/Layout'
+import Layout from '../components/layout'
 import styles from '../css/template.module.css'
 import Img from 'gatsby-image'
 import { FaMoneyBillWave, FaMap } from 'react-icons/fa'
